@@ -3,6 +3,7 @@ public class main {
         System.out.println("hello world!!");
         System.out.println("Hello world");
         int a = 1;
+        жопа
         int b = 2;
         a++;
         фылоалфцдоалзцфоацлфвжацзшаозцфоац
