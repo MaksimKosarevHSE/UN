@@ -5,7 +5,8 @@ public class main {
         System.out.println("Hello world");
         int a = 1;
         жопа
-        int b = 2;
+        int b = 2
+        ff
         a++;
         фылоалфцдоалзцфоацлфвжацзшаозцфоац
     }
