@@ -4,5 +4,6 @@ public class main {
         System.out.println("Hello world2");
         int a = 10;
         a++;
+        a--;
     }
 }
